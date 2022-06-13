@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shriya-Sikkaa
-- 👀 I’m interested in coding, dancing and singing
+- 👀 I’m interested in coding, dancing and skating
 - 🌱 I’m currently learning Java and javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
